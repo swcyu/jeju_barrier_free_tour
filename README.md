@@ -1,4 +1,4 @@
-# jeju_barrier_free_tour
+# Oracle 활용 제주 무장애 여행 정보제공 프로젝트
 제주 무장애 여행 및 날씨 제공 서비스
 
 ## 개요
